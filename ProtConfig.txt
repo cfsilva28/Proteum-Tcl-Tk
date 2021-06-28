@@ -1,0 +1,12 @@
+descompactar o arquivo. Vai aparecer um diretório bin.
+Por exemplo se descompactar na raiz vai ser algo como
+homevictorbin
+
+Executar
+
+export PATH=homevictorbin$PATH
+export PROTEUMIMHOME=homevictorbin
+
+criar um diretório e colocar nele os fontes do programa a ser testado. A partir desse diretório, executar
+
+proteumim &
